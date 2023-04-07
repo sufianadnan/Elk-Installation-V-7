@@ -4,7 +4,7 @@ echo -e "\e[1;32mUpdating packages...\e[0m"
 apt-get update -y 2>&1 >/dev/null
 echo -e "\e[1;32mUpdate completed\e[0m"
 
-echo -e "\e[1;32mUpgrading packages...\e[0m"
+echo -e "\e[1;32mUpgrading packages...This can take a few mins\e[0m"
 apt-get upgrade -y 2>&1 >/dev/null
 echo -e "\e[1;32mUpgrade completed\e[0m"
 
