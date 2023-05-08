@@ -8,7 +8,7 @@ It first updates and upgrades the system's packages, installs necessary dependen
 Then adds the Elasticsearch repository, and installs Elasticsearch, Kibana, and Logstash. 
 Finally, it starts the Elasticsearch, Kibana, and Logstash services and checks the Elasticsearch status.
 No Config/YML files are edited and are running the default version.
-
+JAVA INSTALL IS NOT REQUIRED
 HOW TO USE:
 1. Open a terminal on your Linux system.
 2. Clone or download the script from the Github repository.
