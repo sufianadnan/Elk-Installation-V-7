@@ -1,5 +1,4 @@
 #!/bin/bash
-BOBBBB
 echo -e "\e[1;32mUpdating packages...\e[0m"
 apt-get update -y 2>&1 >/dev/null
 echo -e "\e[1;32mUpdate completed\e[0m"
